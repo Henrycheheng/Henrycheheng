@@ -4,7 +4,10 @@
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究技术。总是致力于建造和学习新东西。
 - 💬 可以加我的微信号 `koikoi07`
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Henrycheheng&show_icons=true&icon_color=0078e7&title_color=0078e7">
+<div>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Henrycheheng&show_icons=true&icon_color=0078e7&title_color=0078e7">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrycheheng&layout=compact&hide=css,html&hide_border=true&card_width=250">
+</div>
 
 #### 语言与框架
 
@@ -19,9 +22,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/koa/koa.png"></code>
 #### 工具
 
-<div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrycheheng&layout=compact&hide=css,html&hide_border=true&card_width=250">
-</div>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 
