@@ -21,7 +21,6 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
- <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=diy4869&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diy4869&layout=compact&hide=css,html&hide_border=true&card_width=250">
+<div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrycheheng&layout=compact&hide=css,html&hide_border=true&card_width=250">
 </div>
