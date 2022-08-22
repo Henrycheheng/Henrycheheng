@@ -5,7 +5,7 @@
 - 💬 可以加我的微信号 `koikoi07`
 
 <div>
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Henrycheheng&show_icons=true&icon_color=0078e7&title_color=0078e7">
+  <img src="https://github-readme-stats.vercel.app/api?username=Henrycheheng&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrycheheng&layout=compact&hide=css,html&hide_border=true&card_width=250">
 </div>
 
