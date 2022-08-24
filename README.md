@@ -5,8 +5,8 @@
 - 💬 可以加我的微信号 `koikoi07`
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Henrycheheng&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrycheheng&layout=compact&hide_border=true&card_width="517px">
+    <img src="https://github-readme-stats.vercel.app/api?username=Henrycheheng&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrycheheng&layout=compact&hide_border=true&card_width=400&card_height=160">
 </div>
 
 #### 语言与框架
