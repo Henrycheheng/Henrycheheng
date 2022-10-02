@@ -1,8 +1,8 @@
 ### <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> Hi, I'm [Koi](https://juejin.cn/user/1284683727647950). 
 
-- 🤔 我是一名WEB前端工作者，——用耳熟能详的前端技术快乐的构建应用程序。
-- 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究技术。总是致力于建造和学习新东西。
-- 💬 可以加我的微信号 `koikoi07`
+- 🤔 I am a WEB front-end worker, and —— happily builds applications with the familiar front-end technology.
+- 💻 Get up every morning and discuss and study techniques with friends on Wechat, QQ. Always committed to building and learning about new things
+- 💬 Reach me QQ: 1184563958
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Henrycheheng&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
