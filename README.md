@@ -5,7 +5,8 @@
 <div>
    <img src="https://github-readme-stats.vercel.app/api?username=Henrycheheng&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrycheheng&layout=compact&hide_border=true&card_width=250&card_height=160">
-   
+</div>
+
 📊 **this week i spent my time on:**
       <!--START_SECTION:waka-->
       
