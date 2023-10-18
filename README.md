@@ -7,7 +7,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=Henrycheheng&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true&card_width=250&card_height=160">
 </div>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="220" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="220" style="transform: translateY(57px)" />
 
 📊 **this week i spent my time on:**
       <!--START_SECTION:waka-->
