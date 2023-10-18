@@ -4,17 +4,19 @@
 
 <div>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrycheheng&layout=compact&hide_border=true&card_width=250&card_height=160">
-   
-   📊 **this week i spent my time on:**
-   <!--START_SECTION:waka-->
-   
-   ```txt
-   TypeScript   7 hrs 7 mins    ████████████████████████▒   96.71 %
-   Ezhil        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-   JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-   ```
-   
-   <!--END_SECTION:waka-->
+   <p align="right">
+      📊 **this week i spent my time on:**
+      <!--START_SECTION:waka-->
+      
+      ```txt
+      TypeScript   7 hrs 7 mins    ████████████████████████▒   96.71 %
+      Ezhil        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+      JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+      ```
+      
+      <!--END_SECTION:waka-->
+   </p>
+
 </div>
 
 
