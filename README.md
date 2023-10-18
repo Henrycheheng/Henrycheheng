@@ -4,7 +4,7 @@
 
 <div>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrycheheng&show_icons=true&theme=gotham&card_width=160&card_height=100" alt="Henrycheheng">
-   <img src="https://github-readme-stats.vercel.app/api?username=Henrycheheng&show_icons=true&theme=gotham&card_width=250&card_height=160" alt="Henrycheheng" />   
+   <img src="https://github-readme-stats.vercel.app/api?username=Henrycheheng&show_icons=true&theme=gotham&card_width=250&card_height=200" alt="Henrycheheng" />   
 </div>
 
 <img align="right" alt="GIF" src="https://github.com/Henrycheheng/Henrycheheng/blob/main/code.gif?raw=true" width="500" height="215" padding="100" />
