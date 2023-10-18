@@ -4,6 +4,8 @@
 
 <div>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrycheheng&layout=compact&hide_border=true&card_width=250&card_height=160">
+   <img align="right" alt="GIF" src="https://github.com/Henrycheheng/Henrycheheng/blob/main/code.gif?raw=true" width="500" height="215" padding="100" />
+   
 📊 **this week i spent my time on:**
       <!--START_SECTION:waka-->
       
@@ -30,7 +32,6 @@
 📈 my github stats
  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Henrycheheng&show_icons=true&theme=gotham" alt="Henrycheheng" />
-<img align="right" alt="GIF" src="https://github.com/Henrycheheng/Henrycheheng/blob/main/code.gif?raw=true" width="500" height="215" padding="100" />
 
 #### lang
 
