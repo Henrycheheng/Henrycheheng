@@ -2,11 +2,11 @@
 
 - 🤔 hi,there, i'm a WEB front-end worker, and —— happily builds applications with the familiar front-end technology.
 
-<div>
+/*<div>
     <img src="https://github-readme-stats.vercel.app/api?username=Henrycheheng&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrycheheng&layout=compact&hide_border=true&card_width=250&card_height=160">
 </div>
-
+*/
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
@@ -26,7 +26,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="250" />
+ <img align="right" alt="GIF" src="https://github.com/Henrycheheng/Henrycheheng/blob/main/code.gif?raw=true" width="500" height="250" />
 
 📈 my github stats
 
