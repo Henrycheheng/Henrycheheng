@@ -7,6 +7,8 @@
    <img src="https://github-readme-stats.vercel.app/api?username=Henrycheheng&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
 </div>
 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 📊 **this week i spent my time on:**
       <!--START_SECTION:waka-->
       
