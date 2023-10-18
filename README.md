@@ -4,9 +4,7 @@
 
 <div>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrycheheng&layout=compact&hide_border=true&card_width=250&card_height=160">
-   <p align="right">
-      <blockquote>
-         📊 **this week i spent my time on:**
+📊 **this week i spent my time on:**
       <!--START_SECTION:waka-->
       
       ```txt
@@ -16,8 +14,6 @@
       ```
       
       <!--END_SECTION:waka-->
-      </blockquote>
-   </p>
 
 </div>
 
