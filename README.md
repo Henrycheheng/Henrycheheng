@@ -26,7 +26,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
- <img align="right" alt="GIF" src="https://github.com/Henrycheheng/Henrycheheng/blob/main/code.gif?raw=true" width="500" height="250" />
+ <img align="right" alt="GIF" src="https://github.com/Henrycheheng/Henrycheheng/blob/main/code.gif?raw=true" width="500" height="215" />
 
 📈 my github stats
 
