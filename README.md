@@ -8,6 +8,9 @@
 </div>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="220" style="transform: translateY(57px)" />
+  
+- 💼 any freelance work? do reach, [email](1184563958@qq.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 📊 **this week i spent my time on:**
       <!--START_SECTION:waka-->
