@@ -3,7 +3,7 @@
 - 🤔 hi,there, i'm a WEB front-end worker, and —— happily builds applications with the familiar front-end technology.
 
 <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrycheheng&show_icons=true&theme=gotham&card_width=160&card_height=160" alt="Henrycheheng">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrycheheng&show_icons=true&theme=gotham&card_width=160&card_height=100" alt="Henrycheheng">
    <img src="https://github-readme-stats.vercel.app/api?username=Henrycheheng&show_icons=true&theme=gotham&card_width=250&card_height=160" alt="Henrycheheng" />   
 </div>
 
