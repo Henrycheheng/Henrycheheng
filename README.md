@@ -3,8 +3,15 @@
 - 🤔 hi,there, i'm a WEB front-end worker, and —— happily builds applications with the familiar front-end technology.
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrycheheng&layout=compact&hide_border=true&card_width=350&card_height=160">
-   <img src="https://github-readme-stats.vercel.app/api?username=Henrycheheng&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true&card_width=250&card_height=160">
+    <img src="https://github-readme-stats.vercel.app/api?username=Henrycheheng&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Henrycheheng"  style="flex: 1;height: 200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrycheheng&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Henrycheheng"  style="flex: 1; height: 200px;"
+    />
+</div>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrycheheng&theme=material-palenight&hide_border=false" alt="Henrycheheng"  width="100%"  /></p>
+
+![](https://github-profile-trophy.vercel.app/?username=Henrycheheng&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
 </div>
 
 - 💼 any freelance work? do reach, [email](1184563958@qq.com) :)
