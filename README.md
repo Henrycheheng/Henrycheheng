@@ -35,9 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 7 mins    ████████████████████████▒   96.71 %
-Ezhil        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+
 ```
 
 <!--END_SECTION:waka-->
