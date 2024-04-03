@@ -38,10 +38,6 @@
 
 ### 📚 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [css面试相关](https://localhost/posts/css/回流和重绘)
-- [准备](https://localhost/posts/game/准备)
-- [前端](https://localhost/posts/game/前端)
-- [记录一次react面试](https://localhost/posts/react/interview)
-- [Reack Hooks小记](https://localhost/posts/react/react-hook)
+
 <!-- BLOG-POST-LIST:END -->
 
