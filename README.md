@@ -1,4 +1,6 @@
-### <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> Hi, I'm Koi，[![wの小站](https://img.shields.io/badge/wの小站-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://akko.netlify.app)
+###👋 This is Koi! <img src="./assets/horse.gif" height="20" width="20">
+
+[![wの小站](https://img.shields.io/badge/wの小站-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://akko.netlify.app)
 
 - 🤔 hi,there, i'm a WEB front-end worker, and —— happily builds applications with the familiar front-end technology.
 
