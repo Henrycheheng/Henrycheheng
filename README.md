@@ -33,6 +33,3 @@
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-<--!![](https://raw.githubusercontent.com/Henrycheheng/Henrycheheng/output/github-contribution-grid-snake.svg)-->
-
