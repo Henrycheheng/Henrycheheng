@@ -32,11 +32,6 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-
-```txt
-
-```
-
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
