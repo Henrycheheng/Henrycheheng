@@ -34,5 +34,5 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-// ![](https://raw.githubusercontent.com/Henrycheheng/Henrycheheng/output/github-contribution-grid-snake.svg)
+<--!![](https://raw.githubusercontent.com/Henrycheheng/Henrycheheng/output/github-contribution-grid-snake.svg)-->
 
