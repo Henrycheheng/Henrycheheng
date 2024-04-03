@@ -18,5 +18,5 @@ jobs:
       - name: Pull posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://akko.netlify.app/atom.xml",
+          feed_list: "https://akko.netlify.app/atom.xml"
           max_post_count: "3"
