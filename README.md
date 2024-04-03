@@ -38,8 +38,8 @@
 
 ### 📚 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [css面试相关](https://akko.netlify.app/posts/css/回流和重绘)
 - [准备](https://akko.netlify.app/posts/game/准备)
-- [前端](https://akko.netlify.app/posts/game/前端)
+- [cocos2/3d入门](https://akko.netlify.app/posts/cocos/01.入门/1.入门)
+- [cocos3d项目结构](https://akko.netlify.app/posts/cocos/02.项目结构/项目结构)
 <!-- BLOG-POST-LIST:END -->
 
