@@ -1,25 +1,22 @@
-name: Wakatime
+name: Waka Readme
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
+  schedule:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
-    name: Wakatime
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TOTAL: true
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          # COMMIT_MESSAGE: "chore: update wakatime"
-          COMMITTER_NAME: "Henrycheheng"
-          COMMITTER_EMAIL: "1184563958@qq.com"
-          AUTHOR_NAME: "Henrycheheng"
-          AUTHOR_EMAIL: "1184563958@qq.com"
+          SHOW_TITLE: true
+          BLOCKS: ░▒▓█
+          TIME_RANGE: last_year
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+          LANG_COUNT: 10
