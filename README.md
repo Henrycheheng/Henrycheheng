@@ -38,8 +38,8 @@
 
 ### 📚 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [css面试相关](https://localhost/posts/css/回流和重绘)
-- [准备](https://localhost/posts/game/准备)
-- [前端](https://localhost/posts/game/前端)
+- [css面试相关](https://akko.netlify.app/posts/css/回流和重绘)
+- [准备](https://akko.netlify.app/posts/game/准备)
+- [前端](https://akko.netlify.app/posts/game/前端)
 <!-- BLOG-POST-LIST:END -->
 
