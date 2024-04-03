@@ -1,8 +1,9 @@
 name: Update Posts
+
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # 每天零点执行一次
+  workflow_dispatch: # 同时支持手动触发
 
 permissions:
   contents: write
@@ -15,11 +16,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20.0'
+
       - name: Pull posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://akko.netlify.app/"
-          max_post_count: "3"
-          commit_message: "chore: update blog posts"
-          committer_email: "1184563958@qq.com"
-          committer_username: "Henrycheheng"
+        
