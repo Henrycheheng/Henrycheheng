@@ -38,8 +38,8 @@
 
 ### 📚 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [css面试相关](https://localhost/posts/css/回流和重绘)
-- [准备](https://localhost/posts/game/准备)
-- [前端](https://localhost/posts/game/前端)
+- [Next.js 14: No New APIs &amp; Breaking Changes](https://dev.to/mongodb/nextjs-14-no-new-apis-breaking-changes-3nh3)
+- [Render ATL 2023 Trip Report](https://dev.to/codestackr/render-atl-2023-trip-report-mp4)
+- [Web Development Roadmap 2023](https://dev.to/codestackr/web-development-roadmap-2023-5beo)
 <!-- BLOG-POST-LIST:END -->
 
