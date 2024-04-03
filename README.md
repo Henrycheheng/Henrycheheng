@@ -1,6 +1,7 @@
 ### <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> Hi, I'm Koi
 
 - 🤔 hi,there, i'm a WEB front-end worker, and —— happily builds applications with the familiar front-end technology.
+[![爱发电](https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/@so1ve)
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Henrycheheng&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Henrycheheng"  style="flex: 1;height: 200px;"/>
