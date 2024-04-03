@@ -1,4 +1,4 @@
-###👋 This is Koi! <img src="./assets/horse.gif" height="20" width="20">
+## 👋 This is Koi! <img src="./assets/horse.gif" height="20" width="20">
 
 [![wの小站](https://img.shields.io/badge/wの小站-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://akko.netlify.app)
 
