@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Pull posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://akko.netlify.app/feed.xml"
           max_post_count: "3"
