@@ -56,8 +56,8 @@ Git Config        6 mins          ░░░░░░░░░░░░░░░�
 
 ### 📚 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [准备](https://akko.netlify.app/posts/game/准备)
-- [cocos2/3d入门](https://akko.netlify.app/posts/cocos/01.入门/1.入门)
-- [cocos3d项目结构](https://akko.netlify.app/posts/cocos/02.项目结构/项目结构)
+- [loadEnv](https://akko.netlify.app/posts/vite/loadEnv)
+- [stable diffision](https://akko.netlify.app/posts/stable dffision/01.install)
+- [记录一次react面试](https://akko.netlify.app/posts/react/interview)
 <!-- BLOG-POST-LIST:END -->
 
