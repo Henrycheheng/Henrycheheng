@@ -56,8 +56,8 @@ Other             9 mins          ░░░░░░░░░░░░░░░�
 
 ### 📚 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [loadEnv](https://akko.netlify.app/posts/vite/loadEnv)
-- [stable diffision](https://akko.netlify.app/posts/stable dffision/01.install)
 - [记录一次react面试](https://akko.netlify.app/posts/react/interview)
+- [Reack Hooks小记](https://akko.netlify.app/posts/react/react-hook)
+- [stable diffision](https://akko.netlify.app/posts/stable dffision/01.install)
 <!-- BLOG-POST-LIST:END -->
 
