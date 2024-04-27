@@ -59,5 +59,7 @@ Other             9 mins          ░░░░░░░░░░░░░░░�
 - [08.grpc](https://akko.netlify.app/posts/cocos/10.grpc/index)
 - [07.gateway](https://akko.netlify.app/posts/cocos/09.gateway/index)
 - [06.uuid生成token](https://akko.netlify.app/posts/cocos/08.uuid生成token/index)
+- [05.crypto哈希散列MD5混淆](https://akko.netlify.app/posts/cocos/07.哈希散列混淆/index)
+- [04.Docker启动mysql](https://akko.netlify.app/posts/cocos/06.mysql/index)
 <!-- BLOG-POST-LIST:END -->
 
