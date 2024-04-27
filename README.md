@@ -57,7 +57,7 @@ Other             9 mins          ░░░░░░░░░░░░░░░�
 ### 📚 Latest Posts
 <!-- BLOG-POST-LIST:START -->
 - [08.grpc](https://akko.netlify.app/posts/cocos/10.grpc/index)
-- [07.gateway](https://akko.netlify.app/posts/cocos/09.gateway network service/index)
+- [07.gateway](https://akko.netlify.app/posts/cocos/09.gateway/index)
 - [06.uuid生成token](https://akko.netlify.app/posts/cocos/08.uuid生成token/index)
 <!-- BLOG-POST-LIST:END -->
 
