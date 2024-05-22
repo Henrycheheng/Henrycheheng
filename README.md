@@ -55,6 +55,7 @@ Other             10 mins         ░░░░░░░░░░░░░░░�
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 ### 📚 Latest Posts
+RSS自动生成和生成文章的插件目前有三方兼容问题，待作者修复，可以直接查看readme顶部的小站
 <!-- BLOG-POST-LIST:START -->
 - [09.protobuf](https://akko.netlify.app/posts/cocos/11.protobuf/index)
 - [08.grpc](https://akko.netlify.app/posts/cocos/10.grpc/index)
@@ -62,4 +63,5 @@ Other             10 mins         ░░░░░░░░░░░░░░░�
 - [06.uuid生成token](https://akko.netlify.app/posts/cocos/08.uuid生成token/index)
 - [05.crypto哈希散列MD5混淆](https://akko.netlify.app/posts/cocos/07.哈希散列混淆/index)
 <!-- BLOG-POST-LIST:END -->
+
 
