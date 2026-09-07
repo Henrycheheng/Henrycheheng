@@ -57,11 +57,11 @@ Text         0 secs                ▒░░░░░░░░░░░░░░
 ### 📚 Latest Posts
 RSS自动生成和生成文章的插件目前有三方兼容问题，待作者修复，可以直接查看readme顶部的小站
 <!-- BLOG-POST-LIST:START -->
-- [初识sonicpi](https://akko.netlify.app/posts/music/01初识sonicpi)
-- [02.乐理](https://akko.netlify.app/posts/music/02乐理)
-- [03.hithat](https://akko.netlify.app/posts/music/03hithat)
 - [10.柏林噪声生成地图](https://akko.netlify.app/posts/cocos/12.柏林噪声生成地图/index)
-- [09.protobuf](https://akko.netlify.app/posts/cocos/11.protobuf/index)
+- [从 Superpowers 到 Matt Skills](https://akko.netlify.app/posts/ai/ai-coding-workflow)
+- [hithat](https://akko.netlify.app/posts/music/hithat)
+- [乐理](https://akko.netlify.app/posts/music/乐理)
+- [初识sonicpi](https://akko.netlify.app/posts/music/01初识sonicpi)
 <!-- BLOG-POST-LIST:END -->
 
 
